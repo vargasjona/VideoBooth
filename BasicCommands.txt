@@ -24,7 +24,7 @@ git status
 stage 1 file git add xxx.x
 stage all changes:  git add -A && git commit -m "nombre del cmmit"
 git config --global user.mail "yyy@xxx.es"
-git config --global user.name "jonra1993"
+git config --global user.name "username"
 git commit -m "nombre del cmmit"
 
 git remote add origin pagina derepoengithub
